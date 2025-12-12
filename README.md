@@ -1,0 +1,74 @@
+# DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec
+
+[![Demo Page](https://img.shields.io/badge/Project-Page-green?style=for-the-badge&logo=googlechrome&logoColor=white)](https://silyfox.github.io/DisCo-Speech/)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/xxxx.xxxxx)
+
+## 📝 Abstract
+
+Recent codec-based language models (LMs) have revolutionized text-to-speech (TTS). However, their continuation-based adherence to the tight coupling of speaker timbre and prosody inherent in the codec tokens prevents independent control. Recent efforts attempt to break this entanglement via codec design, but insufficient decoupling remains a critical bottleneck. To tackle this problem, we propose DisCo-Speech, a zero-shot controllable TTS framework that enables prosody control and voice cloning via a disentangled speech codec (DisCodec) and an LM-based generator. The crucial design, DisCodec, contains two core stages: 1) Tri-factor disentanglement: using parallel encoders and hybrid correlation-based losses, it explicitly decouples speech into content, prosody, and timbre subspaces; 2) Fusion and reconstruction: given the learned subspaces, DisCodec decoder further fuses content and prosody into unified content-prosody tokens suitable for LM usage, while jointly optimizing reconstruction quality to resolve the inherent disentanglement-reconstruction conflict. With this design, the LM performs contextual prosodic continuation from a style prompt while the decoder handles target timbre injection, forming DisCo-Speech’s zero-shot control paradigm. 
+
+<div align="center">
+
+<br>
+<img src="figs/codec.jpg" width="800" alt="DisCo-Speech Codec"/>
+Figure 1: The overview of DisCo-Speech.
+<img src="figs/tts.jpg" width="800" alt="DisCo-Speech Architecture"/>
+Figure 2: The structure and two-stage training of DisCodec.
+<br>
+</div>
+
+---
+
+## 🎵 Audio Samples
+**The best way to understand our work is to listen to the samples!**
+
+### 👉 [Click here to visit our Demo Page](https://silyfox.github.io/DisCo-Speech/) 👈
+
+We provide extensive samples demonstrating:
+* DisCo-Speech: Zero-shot Controllable Speech Generation
+  * Voice Cloning Comparison With Other Mthods
+  * Zero-Shot Controllable generation Comparison With Other Methods
+* DisCodec: Disentangled Speech Codec
+  * DisCodec Reconstruction Performance
+  * Zero-Shot Voice conversion of DisCodec
+  * Disentanglement Visual Analysis
+* Additional DisCo-Speech Zero-Shot Demos
+  * Voice Cloning
+  * Zero-Shot Controllable Generation Demos
+
+---
+
+## 📢 News
+* **[2025-12-12]** The project page is now live! Check out the samples [here](https://silyfox.github.io/DisCo-Speech/).
+* **[2025-12-12]** Our paper is available on arXiv.
+
+> 🚧 **Code Release Status:**
+>
+> We are actively preparing the source code for release. Currently, the code is undergoing internal review and refactoring to ensuring it is easy to run and reproduce.
+>
+> Please **Star ⭐** this repository to get the latest updates!
+
+---
+
+## 🗺️ Roadmap
+
+- [x] Launch Project Page (Demo) 🌐
+- [x] Release Paper on arXiv 📄
+- [ ] Release Inference Code 💻
+- [ ] Release Pretrained Models (Checkpoints) 📦
+- [ ] Release Training Scripts ⚙️
+- [ ] Hugging Face Spaces Demo 🚀
+
+---
+
+## 🔗 Citation
+
+If you find **DisCo-Speech** useful for your research, please consider citing our paper:
+
+```bibtex
+@article{author202Xdiscospeech,
+  title={DisCo-Speech: [Full Title]},
+  author={Lastname, Firstname and Lastname, Firstname},
+  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  year={202X}
+}
