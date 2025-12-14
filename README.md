@@ -34,7 +34,7 @@ Figure 2: The structure and two-stage training of DisCodec.
 ---
 
 ## 🎵 Audio Samples
-**The best way to understand our work is to listen to the samples!**
+<!-- **The best way to understand our work is to listen to the samples!** -->
 
 ### 👉 [Click here to visit our Demo Page](https://silyfox.github.io/DisCo-Speech/) 👈
 
