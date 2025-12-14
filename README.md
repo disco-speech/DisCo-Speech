@@ -53,8 +53,8 @@ We provide extensive samples demonstrating:
 ---
 
 ## 📢 News
-* **[2025-12-12]** The project page is now live! Check out the samples [here](https://silyfox.github.io/DisCo-Speech/).
-* **[2025-12-12]** Our paper is available on arXiv.
+* **[2025-12-16]** The project page is now live! Check out the samples [here](https://silyfox.github.io/DisCo-Speech/).
+* **[2025-12-16]** Our paper is available on arXiv.
 
 > 🚧 **Code Release Status:**
 >
@@ -75,7 +75,7 @@ We provide extensive samples demonstrating:
 
 ---
 
-## 🔗 Citation
+<!-- ## 🔗 Citation
 
 If you find **DisCo-Speech** useful for your research, please consider citing our paper:
 
@@ -85,4 +85,4 @@ If you find **DisCo-Speech** useful for your research, please consider citing ou
   author={Lastname, Firstname and Lastname, Firstname},
   journal={arXiv preprint arXiv:xxxx.xxxxx},
   year={202X}
-}
+} -->
