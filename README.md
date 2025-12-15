@@ -14,14 +14,14 @@
 </div>
 
 ## 📝 Abstract
-                Recent codec-based language models~(LMs) have revolutionized text-to-speech~(TTS). 
-                However, since standard codecs tightly couple timbre and prosody, continuation-based LMs inevitably replicate this entanglement, hindering independent control.
-                Recent efforts attempt to break this entanglement via codec design, but insufficient decoupling remains a critical bottleneck. 
-                To tackle this challenge, we propose DisCo-Speech, a zero-shot controllable TTS framework that enables prosody control and voice cloning via a disentangled speech codec (DisCodec) and an LM-based generator. 
-                The core component, DisCodec, contains two core stages: 1) 
-                Tri-factor disentanglement, which explicitly factorizes speech into content, prosody, and timbre subspaces via parallel encoders and hybrid losses; and 2) Fusion and reconstruction, which fuses content and prosody into unified content-prosody tokens suitable for LM prediction, while jointly optimizing reconstruction quality to resolve the disentanglement-reconstruction trade-off.
-                With this design, the LM performs prosodic continuation from a style prompt while the decoder handles target timbre injection, enabling flexible zero-shot control.
-                Experiments show that DisCo-Speech matches state-of-the-art voice cloning performance while outperforming baselines in zero-shot prosody control.
+Recent codec-based language models~(LMs) have revolutionized text-to-speech~(TTS). 
+However, since standard codecs tightly couple timbre and prosody, continuation-based LMs inevitably replicate this entanglement, hindering independent control.
+Recent efforts attempt to break this entanglement via codec design, but insufficient decoupling remains a critical bottleneck. 
+To tackle this challenge, we propose DisCo-Speech, a zero-shot controllable TTS framework that enables prosody control and voice cloning via a disentangled speech codec (DisCodec) and an LM-based generator. 
+The core component, DisCodec, contains two core stages: 1) 
+Tri-factor disentanglement, which explicitly factorizes speech into content, prosody, and timbre subspaces via parallel encoders and hybrid losses; and 2) Fusion and reconstruction, which fuses content and prosody into unified content-prosody tokens suitable for LM prediction, while jointly optimizing reconstruction quality to resolve the disentanglement-reconstruction trade-off.
+With this design, the LM performs prosodic continuation from a style prompt while the decoder handles target timbre injection, enabling flexible zero-shot control.
+Experiments show that DisCo-Speech matches state-of-the-art voice cloning performance while outperforming baselines in zero-shot prosody control.
 
 <div align="center">
 
