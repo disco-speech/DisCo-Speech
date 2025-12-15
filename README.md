@@ -5,7 +5,7 @@
 
 <div align="center">
     <a href="https://"><img src="https://img.shields.io/badge/Paper-ArXiv-red" alt="paper"></a>
-    <a href="https://silyfox.github.io/DisCo-Speech/"><img src="https://img.shields.io/badge/Demo-Page-lightgrey" alt="version"></a>
+    <a href="https://disco-speech.github.io/DisCo-demo/"><img src="https://img.shields.io/badge/Demo-Page-lightgrey" alt="version"></a>
     <!-- <a href="https://huggingface.co/DisCo-Speech/DisCo-speech"><img src="https://img.shields.io/badge/Hugging%20Face-Model%20Page-yellow" alt="Hugging Face"></a> -->
     <a href="https://github.com/disco-speech/DisCo-Speech-main"><img src="https://img.shields.io/badge/Platform-linux-lightgrey" alt="version"></a>
     <a href="https://github.com/disco-speech/DisCo-Speech-main"><img src="https://img.shields.io/badge/Python-3.12+-orange" alt="version"></a>
@@ -36,7 +36,7 @@ Figure 2: The structure and two-stage training of DisCodec.
 ## 🎵 Audio Samples
 <!-- **The best way to understand our work is to listen to the samples!** -->
 
-### 👉 [Click here to visit our Demo Page](https://silyfox.github.io/DisCo-Speech/) 👈
+### 👉 [Click here to visit our Demo Page](https://silyfox.github.io/DisCo-Speech-demo) 👈
 
 We provide extensive samples demonstrating:
 * DisCo-Speech: Zero-shot Controllable Speech Generation
@@ -53,7 +53,7 @@ We provide extensive samples demonstrating:
 ---
 
 ## 📢 News
-* **[2025-12-16]** The project page is now live! Check out the samples [here](https://silyfox.github.io/DisCo-Speech/).
+* **[2025-12-16]** The project page is now live! Check out the samples [here](https://disco-speech.github.io/DisCo-demo/).
 * **[2025-12-16]** Our paper is available on arXiv.
 
 > 🚧 **Code Release Status:**
