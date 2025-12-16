@@ -4,7 +4,8 @@
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/xxxx.xxxxx) -->
 
 <div align="center">
-    <a href="https://"><img src="http://arxiv.org/abs/2512.13251" alt="paper"></a>
+    <!-- <a href="https://"><img src="http://arxiv.org/abs/2512.13251" alt="paper"></a> -->
+    <a href="http://arxiv.org/abs/2512.13251"><img src="https://img.shields.io/badge/paper-Page-lightgrey" alt="version"></a>
     <a href="https://disco-speech.github.io/DisCo-demo/"><img src="https://img.shields.io/badge/Demo-Page-lightgrey" alt="version"></a>
     <!-- <a href="https://huggingface.co/DisCo-Speech/DisCo-speech"><img src="https://img.shields.io/badge/Hugging%20Face-Model%20Page-yellow" alt="Hugging Face"></a> -->
     <a href="https://github.com/disco-speech/DisCo-Speech-main"><img src="https://img.shields.io/badge/Platform-linux-lightgrey" alt="version"></a>
