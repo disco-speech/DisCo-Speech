@@ -28,9 +28,9 @@ Experiments show that DisCo-Speech matches state-of-the-art voice cloning perfor
 
 <br>
 <img src="figs/codec.jpg" width="800" alt="DisCo-Speech Codec"/>
-Figure 1: The overview of DisCo-Speech.
+Figure 1: The structure and two-stage training of DisCodec.
 <img src="figs/tts.jpg" width="800" alt="DisCo-Speech Architecture"/>
-Figure 2: The structure and two-stage training of DisCodec.
+Figure 2: The overview of DisCo-Speech.
 <br>
 </div>
 
