@@ -9,7 +9,7 @@
     <a href="https://disco-speech.github.io/DisCo-demo/"><img src="https://img.shields.io/badge/Demo-Page-green" alt="version"></a>
     <!-- <a href="https://huggingface.co/DisCo-Speech/DisCo-speech"><img src="https://img.shields.io/badge/Hugging%20Face-Model%20Page-yellow" alt="Hugging Face"></a> -->
     <a href="https://github.com/disco-speech/DisCo-Speech-main"><img src="https://img.shields.io/badge/Platform-linux-lightgrey" alt="version"></a>
-    <a href="https://github.com/disco-speech/DisCo-Speech-main"><img src="https://img.shields.io/badge/Python-3.12+-orange" alt="version"></a>
+    <a href="https://github.com/disco-speech/DisCo-Speech-main"><img src="https://img.shields.io/badge/Python-3.10+-orange" alt="version"></a>
     <a href="https://github.com/disco-speech/DisCo-Speech-main"><img src="https://img.shields.io/badge/PyTorch-2.5+-brightgreen" alt="python"></a>
     <!-- <a href="https://github.com/disco-speech/DisCo-Speech-main"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="mit"></a> -->
 </div>
