@@ -84,7 +84,7 @@ If you find **DisCo-Speech** useful for your research, please consider citing ou
 
 @article{li2025disco,
   title={DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec},
-  author={Li, Tao and Ge, Wengshuo and Wang, Zhichao and Cui, Zihao and Ma, Yong and Gao, Yingying and Deng, Chao and Zhang, Shilei and Feng, Junlan},
+  author={Li, Tao and Ge, Wenshuo and Wang, Zhichao and Cui, Zihao and Ma, Yong and Gao, Yingying and Deng, Chao and Zhang, Shilei and Feng, Junlan},
   journal={arXiv preprint arXiv:2512.13251},
   year={2025}
 }
