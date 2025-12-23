@@ -78,14 +78,13 @@ We provide extensive samples demonstrating:
 
 ---
 
-<!-- ## 🔗 Citation
+## 🔗 Citation
 
 If you find **DisCo-Speech** useful for your research, please consider citing our paper:
 
-```bibtex
-@article{author202Xdiscospeech,
-  title={DisCo-Speech: [Full Title]},
-  author={Lastname, Firstname and Lastname, Firstname},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
-  year={202X}
-} -->
+@article{li2025disco,
+  title={DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec},
+  author={Li, Tao and Ge, Wengshuo and Wang, Zhichao and Cui, Zihao and Ma, Yong and Gao, Yingying and Deng, Chao and Zhang, Shilei and Feng, Junlan},
+  journal={arXiv preprint arXiv:2512.13251},
+  year={2025}
+}
