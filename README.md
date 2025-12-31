@@ -51,6 +51,7 @@ We provide extensive samples demonstrating:
   * Disentanglement Visual Analysis
 * Additional DisCo-Speech Zero-Shot Demos
   * Voice Cloning
+  * Cross lingual Voice Cloning
   * Zero-Shot Controllable Generation Demos
 
 ---
